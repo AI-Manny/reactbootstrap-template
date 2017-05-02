@@ -2,7 +2,7 @@
   "name": "app",
   "private": true,
   "scripts": {
-    "start": "npm install & meteor run"
+    "start": "npm install && meteor run"
   },
   "dependencies": {
     "async": "^1.5.2",
