@@ -2,7 +2,8 @@
   "name": "app",
   "private": true,
   "scripts": {
-    "start": "npm install && meteor run"
+    "start": "meteor run",
+    "deploy-galaxy": "npm install && DEPLOY_HOSTNAME=galaxy.meteor.com meteor deploy <myapp.meteorapp.com> --settings settings.json"
   },
   "dependencies": {
     "async": "^1.5.2",

@@ -13,4 +13,10 @@ Install Meteor.js
 https://www.meteor.com/install
 
 To run Meteor use:
-```npm run```
+```npm start```
+
+To deploy to Galaxy:
+```npn run deploy-galaxy```
+
+Example:
+http://myreactapp.meteorapp.com/
