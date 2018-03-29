@@ -17,6 +17,3 @@ To run Meteor use:
 
 To deploy to Galaxy:
 ```npn run deploy-galaxy```
-
-Example:
-http://myreactapp.meteorapp.com/
